@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017-03-02 10:00:07.000.381,=C:\Users\ffulgencio\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2017-03-02 10:00:21.000.370,=C:\Users\ffulgencio\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017-03-02 10:02:14.000.153,=C:\Users\ffulgencio\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017-03-02 10:04:58.000.258,=C:\Users\ffulgencio\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2017-03-02 10:05:06.000.481,=C:\Users\ffulgencio\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017-03-02 10:40:42.000.312,=C:\Users\ffulgencio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017-03-02 14:32:53.000.249,C:\Users\ffulgencio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\ffulgencio\Documents\Embarcadero\Studio\Projects\calculadora\Unit1.dfm</Transaction>
+    <Transaction>2017-03-02 14:32:53.000.249,C:\Users\ffulgencio\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\ffulgencio\Documents\Embarcadero\Studio\Projects\calculadora\Unit1.pas</Transaction>
+    <Transaction>2017-03-02 14:32:54.000.068,C:\Users\ffulgencio\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\ffulgencio\Documents\Embarcadero\Studio\Projects\calculadora\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
